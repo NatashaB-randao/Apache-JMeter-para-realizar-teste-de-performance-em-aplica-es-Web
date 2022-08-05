@@ -1,1 +1,3 @@
-# Apache-JMeter-para-realizar-teste-de-performance-em-aplica-es-Web
+# Apache-JMeter
+Obejetivo do teste:
+-Simular alguns usuários fazendo requisições HTTP no site globoesporte.com
